@@ -1,0 +1,4 @@
+projects/*/target/*
+rust_tutorial/target/*
+todo-cli/target/*
+rust_tutorial/.idea
